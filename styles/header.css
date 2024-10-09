@@ -38,7 +38,7 @@
 .lista-menu__titulo,
 .lista-menu__item {
     padding: 1em;
-    background-color: var(--branco);
+    background-color:#48D1CC);
 }
 
 .lista-menu__titulo {
